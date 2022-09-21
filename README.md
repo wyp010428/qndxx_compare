@@ -4,7 +4,7 @@
 ### 使用方法
 1. 在【信息.txt】中，将本支部的所有信息填写完整，要和青年大学习系统一致。
 2. 在【花名册.txt】中，将本支部所有同学姓名用换行分隔，填写完整。（直接从excel中复制一整列即可。）
-3. 运行程序，输入要查询的期数，纯数字即可。
+3. 运行【qndxx.py】或【qndxx.exe】 ，输入要查询的期数，纯数字即可。
 
 ### 运行截图
 <img width="139" alt="image" src="https://user-images.githubusercontent.com/58501978/191424084-a1f426af-aeb9-455f-884f-a4378a5efbca.png">
